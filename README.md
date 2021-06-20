@@ -1,13 +1,13 @@
-# React-ticker-widget
+# react-ticker-widget
 
-In this project I have replicate the functionality of ticker-widget from (https://trading.bitfinex.com/t/BTC:USD?type=exchange)
+In this project I have replicate the functionality of ticker-widget from https://trading.bitfinex.com/t/BTC:USD?type=exchange
 
-# Functionality
+## Functionality
 
-Live update using ticker socket
-Restart after disconnect
-Persistence of state using redux
-Connect/disconnect of socket whenever needed
+1. Live update using ticker socket\
+2. Restart after disconnect\
+3. Persistence of state using redux\
+4. Connect/disconnect of socket whenever needed\
 
 ## Available Scripts
 
